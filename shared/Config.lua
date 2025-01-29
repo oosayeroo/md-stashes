@@ -3,6 +3,7 @@ Config.Inv = 'qb'
 Config.Target = 'qb' -- qb, ox or interact
 Config.Defaultslot = 50
 Config.Defaultweight = 1000000
+Config.SayerGangs = true
 
 Config.Objects = {
     {value = 'tr_prop_tr_chest_01a', label = 'Chest 1'},
